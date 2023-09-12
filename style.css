@@ -139,3 +139,19 @@ body {
 .author_name a:hover {
     color: #00FFF8;
 }
+
+.attribution {
+    position: fixed;
+    bottom: 10px;
+    color: #fff
+}
+
+.attribution a {
+    color: red;
+    text-decoration: none;
+    transition: .3s ease;
+}
+
+.attribution a:hover {
+    color: #00FFF8;
+}
